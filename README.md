@@ -1,2 +1,1 @@
-# ubuntu-appindicator-nordvpn
-NordVPN Status Indicator for Ubuntu
+# NordVPN Status Indicator for Ubuntu
